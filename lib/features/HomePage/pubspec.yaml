@@ -1,0 +1,11 @@
+name: homepage
+description: A shared module for Flutter projects.
+version: 1.0.0
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.2
